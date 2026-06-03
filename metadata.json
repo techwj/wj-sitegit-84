@@ -1,0 +1,59 @@
+{
+  "siteId": "travel-first-aid-kit",
+  "generatedAt": "2026-06-02T19:22:22.609205",
+  "categories": [
+    "beginner-travel-first-aid-kit",
+    "advanced-travel-first-aid-kit",
+    "tips-travel-first-aid-kit",
+    "history-travel-first-aid-kit",
+    "trending-travel-first-aid-kit",
+    "tutorials-travel-first-aid-kit"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-travel-first-aid-kit",
+      "category_name": "Beginner Travel First Aid Kit"
+    },
+    {
+      "category_slug": "advanced-travel-first-aid-kit",
+      "category_name": "Advanced Travel First Aid Kit"
+    },
+    {
+      "category_slug": "tips-travel-first-aid-kit",
+      "category_name": "Travel First Aid Kit Tips"
+    },
+    {
+      "category_slug": "history-travel-first-aid-kit",
+      "category_name": "Travel First Aid Kit History"
+    },
+    {
+      "category_slug": "trending-travel-first-aid-kit",
+      "category_name": "Trending Travel First Aid Kit"
+    },
+    {
+      "category_slug": "tutorials-travel-first-aid-kit",
+      "category_name": "Travel First Aid Kit Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "travel-first-aid-kit",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Travel First Aid Kit Central",
+    "articles_per_row": 3
+  }
+}
